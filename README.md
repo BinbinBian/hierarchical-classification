@@ -43,4 +43,4 @@ different random selections of the data set. Parallelisation is really straightf
 
 CODE
 
-The implementation is done both in R and in Python. An additional C++ code is given to possibly improve the speed of the Python implementation during the learning part (see Python code for details). As the original data file size is more than 70 Mb, only a sample file with 6k (instead of 200k) is here provided. The original data file is available on request.
+The implementation is done both in R and in Python. An additional C++ code is given to possibly improve the speed of the Python implementation during the learning part (see Python code for details). As the original data file size is more than 70 Mb, only a sample file with 6k (instead of 200k) is here provided. The original data can be found here: https://drive.google.com/file/d/0B8BtI9K-FBCVQjIybUpHZDV4WjQ/view
